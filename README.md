@@ -21,9 +21,9 @@ Soy un desarrollador Front-End y un entusiasta del aprendizaje y la experiencia 
 - 🌱Actualmente estoy aprendiendo muchas cosas, creo que cada día es una oportunidad de aprendizaje.
 - 🏙 Interesado en la innovación y dispuesto a aportar mis conocimientos.
 - 💁‍♂️ Apasionado por la codificación
-- ✍ Escribo blogs técnicos. Puedes visitar mi sitio en [Facebook](https://www.facebook.com/funky.ponky).
+- ✍ Escribo blogs técnicos. Puedes visitar mi sitio en [Facebook]().
 - ❤ Contribuyendo al código abierto.
-- 💻 Visita mi [Instagram](https://www.instagram.com/bryhan17oficial/) para más detalles sobre mí.
+- 💻 Visita mi [Instagram]() para más detalles sobre mí.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
