@@ -17,7 +17,7 @@ Digital Craftsman (Developer / Programmer)
 
 Soy un desarrollador Front-End y un entusiasta del aprendizaje y la experiencia del usuario con un gran amor por HTML, CSS, JS, React.js, PHP, Python y visualización de datos. </p>
 
-- ✨Técnico / Tecnólogo :)
+- ✨Técnico :)
 - 🌱Actualmente estoy aprendiendo muchas cosas, creo que cada día es una oportunidad de aprendizaje.
 - 🏙 Interesado en la innovación y dispuesto a aportar mis conocimientos.
 - 💁‍♂️ Apasionado por la codificación
