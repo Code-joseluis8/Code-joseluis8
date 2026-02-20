@@ -36,8 +36,7 @@ Soy un desarrollador Front-End y un entusiasta del aprendizaje y la experiencia 
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,bootstrap,nodejs,django,php,solidity,postgres,git,vscode,postman, angular,tailwind,linux&perline=10"  />
+<img width="500px" src="https://skillicons.dev/icons?i=js,html,css,wasm,python,nodejs,angular)](https://skillicons.dev"/>
 </p>
 <br />
 
