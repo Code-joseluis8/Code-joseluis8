@@ -17,7 +17,7 @@ Digital Craftsman (Developer / Programmer)
 
 Soy un desarrollador Front-End y un entusiasta del aprendizaje y la experiencia del usuario con un gran amor por HTML, CSS, JS, React.js, PHP, Python y visualización de datos. </p>
 
-- ✨Técnico / Tecnólogo :)
+- ✨Técnico :)
 - 🌱Actualmente estoy aprendiendo muchas cosas, creo que cada día es una oportunidad de aprendizaje.
 - 🏙 Interesado en la innovación y dispuesto a aportar mis conocimientos.
 - 💁‍♂️ Apasionado por la codificación
@@ -28,7 +28,7 @@ Soy un desarrollador Front-End y un entusiasta del aprendizaje y la experiencia 
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@ Soy un desarrollador Front-End y un entusiasta del aprendizaje y la experiencia 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,bootstrap,nodejs,django,php,solidity,postgres,git,vscode,postman, angular,tailwind,linux&perline=10"  />
+<img width="500px"src="https://skillicons.dev/icons?i=py,java,js,html,css,react,bootstrap,nodejs,django,php,solidity,postgres,git,vscode,postman,angular,tailwind,linux&perline=10/>
 </p>
 <br />
 
